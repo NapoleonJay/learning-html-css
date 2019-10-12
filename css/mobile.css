@@ -1,0 +1,64 @@
+/* navbar */
+#navbar .logo {
+    float: none;
+    text-align: center;
+}
+
+#navbar ul, #navbar ul li {
+    float: none;
+}
+
+#navbar ul li a {
+    padding: 5px;
+    border: #333 dotted 1px;
+}
+
+/* Home-info */
+#home-info {
+    height: 450px;
+}
+
+#home-info .info-img {
+    display: none;
+}
+
+#home-info .info-content {
+    float: none;
+    width: 100%; 
+}
+
+/* features boxes */
+.box {
+    float: none;
+    width: 100%;
+}
+
+/* L-heading */
+.l-heading {
+    text-align: center;
+}
+
+.container  P {
+    text-align: center;
+}
+
+.bg-light{
+padding: 30px;
+}
+
+
+.bg-primary {
+    padding: 30px;
+}
+
+/* about Info page */
+#about-info .info-left {
+    float: none;
+    width: 100%;
+}
+
+#about-info .info-right {
+    float: none;
+    width: 100%;
+}
+
